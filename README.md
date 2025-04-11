@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=dder's%20github&fontAlign=60&fontAlignY=30&desc=Maple.gg&descAlignY=42&descAlign=60&fontSize=70&rotate=20)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=dder's%20github&fontAlign=63&fontAlignY=35&desc=Maple.gg&descAlignY=42&descAlign=60&fontSize=70&rotate=20)
 <!--
 **dder2013132/dder2013132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
