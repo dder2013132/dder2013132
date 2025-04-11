@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?logo=javascript)
+![플랫스타일](https://img.shields.io/badge/Style-Flat-blue?style=flat)
+![플라스틱스타일](https://img.shields.io/badge/Style-Plastic-green?style=plastic)
+![플랫스퀘어스타일](https://img.shields.io/badge/Style-Flat_Square-orange?style=flat-square)
+![포뱃지스타일](https://img.shields.io/badge/Style-For_The_Badge-red?style=for-the-badge)
